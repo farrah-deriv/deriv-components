@@ -38,7 +38,7 @@
         "@radix-ui/react-checkbox": "^0.1.4",
         "@storybook/addon-actions": "^6.5.0-alpha.36",
         "@storybook/addon-docs": "^6.5.0-alpha.36",
-        "@storybook/addon-essentials": "^6.5.0-alpha.36",
+        "@storybook/addon-essentials": "^6.5.0-alpha.50",
         "@storybook/addon-links": "^6.5.0-alpha.36",
         "@storybook/builder-webpack5": "^6.5.0-alpha.38",
         "@storybook/manager-webpack5": "^6.5.0-alpha.38",
